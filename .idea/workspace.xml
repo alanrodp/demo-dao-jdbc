@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b10bd9e2-bd96-45ff-b8b8-94a70d143752" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/DepartmentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -73,33 +76,74 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1624757409396" />
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1624757310439">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1624763948661">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1624757310439" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1624763948661" />
     <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1624757401342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1624757401342" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1624757438433">
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom" timestamp="1624766315010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624757438433" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1624757438429">
+    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624766315010" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1624764547666" />
+    <state width="1398" height="294" key="GridCell.Tab.0.center" timestamp="1624766315009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624757438429" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1624757438427">
+    <state width="1398" height="294" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624766315009" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1624764547665" />
+    <state width="1398" height="294" key="GridCell.Tab.0.left" timestamp="1624766315008">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624757438427" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1624757438431">
+    <state width="1398" height="294" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624766315008" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1624764547664" />
+    <state width="1398" height="294" key="GridCell.Tab.0.right" timestamp="1624766315010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624757438431" />
+    <state width="1398" height="294" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624766315010" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1624764547665" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1624766315012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624766315012" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1624766315011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1624766315011" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1624766315010">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1624766315010" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1624766315011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1624766315011" />
     <state x="208" y="31" key="SettingsEditor" timestamp="1624748375948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1624748375948" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
